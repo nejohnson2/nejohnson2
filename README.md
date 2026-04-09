@@ -1,6 +1,6 @@
 # Nicholas E. Johnson
 
-I've worked on all kinds of projects, but most consider myself a researcher|problemsolder who uses technology and data to explore technology's impact on society and how new tools can be used to better society.
+I've worked on all kinds of projects, but most consider myself a **researcher | problem solver** who uses technology and data to explore technology's impact on society and how new tools can be used to better society.
 
 Nowadays, I focus on AI.  Specifically, I'm intersted in AI syscophancy, activation steering, and uncertainty in reasoning.
 

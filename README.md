@@ -1,6 +1,6 @@
 # Nicholas E. Johnson
 
-I've worked on all kinds of projects, but most consider myself a technologies and data scientist who focuses on the interestion of technology and society.  I like exploring how technologies impact society and the relationship between the two.
+I've worked on all kinds of projects, but most consider myself a researcher|problemsolder who uses technology and data to explore technology's impact on society and how new tools can be used to better society.
 
 Nowadays, I focus on AI.  Specifically, I'm intersted in AI syscophancy, activation steering, and uncertainty in reasoning.
 
@@ -9,6 +9,7 @@ Previously I worked at USAID as a **Senior Data & Analytics Advisor** focusing o
 - [Google Scholar](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
 - [Personal Website](https://www.nejohnson2.com/) (honestly, this is a bit out-of-date)
 - [Linkedin](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
+- [Stony Brook University Libraries: Advancing Trustworthy and Human-Centered AI](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
 
 ## Interesting Projects
 

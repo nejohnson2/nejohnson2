@@ -6,17 +6,20 @@ Nowadays, I focus on AI.  Specifically, I'm intersted in AI syscophancy, activat
 
 Previously I worked at USAID as a **Senior Data & Analytics Advisor** focusing on global food security and the Feed the Future initiative.  Prior to that, I was at the Fire Department in New York City (FDNY) as the **Director of Operations Research**.  
 
+Find me on the internet:
+
+- [100-days-of-makig-AI](https://www.100-days-of-making-ai.com/)
 - [Google Scholar](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
 - [Personal Website](https://www.nejohnson2.com/) (honestly, this is a bit out-of-date)
 - [Linkedin](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
 - [Stony Brook University Libraries: Advancing Trustworthy and Human-Centered AI](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
 
-## Interesting Projects
+## Research
 
-- [100-days-of-makig-AI](https://www.100-days-of-making-ai.com/)
 - [From Thought to Answer](https://github.com/nejohnson2/from-thought-to-answer)
 - [Max Fink Retrieval Augmented Generation](https://github.com/nejohnson2/max-fink-rag)
 - [The Geometry of Persona](https://github.com/nejohnson2/activation-steering-study)
+- [Prompt Fragility in TruthfulQA](https://github.com/nejohnson2/promptfragility-truthfulqa)
 
 ## Self Learning
 I'm using different AI tools to learn about specific NLP and AI concepts.  One might argue this is a really bad idea, but I do like saying "hmm... I dont understand this..now build me some python code so I can learn by doing..."

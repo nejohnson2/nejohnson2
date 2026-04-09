@@ -6,12 +6,12 @@ Nowadays, I focus on AI.  Specifically, I'm intersted in AI syscophancy, activat
 
 Previously I worked at USAID as a **Senior Data & Analytics Advisor** focusing on global food security and the Feed the Future initiative.  Prior to that, I was at the Fire Department in New York City (FDNY) as the **Director of Operations Research**.  
 
-- [Google Scholar]([url](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao))
-= [Personal Website]([url](https://www.nejohnson2.com/)) (honestly, this is a bit out-of-date) 
+- [Google Scholar](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
+= [Personal Website](https://www.nejohnson2.com/) (honestly, this is a bit out-of-date) 
 
 ## Interesting Projects
 
-- [100-days-of-makig-AI]([url](https://www.100-days-of-making-ai.com/))
+- [100-days-of-makig-AI](https://www.100-days-of-making-ai.com/)
 - 
 
 <!--

@@ -4,7 +4,7 @@ I’ve worked on all kinds of projects, but at heart I’m a **researcher | prob
 
 These days, I’m focused on AI, especially AI sycophancy, [activation steering](https://github.com/nejohnson2/activation-steering-study), [uncertainty in reasoning](https://github.com/nejohnson2/from-thought-to-answer) and [information retrieval](https://github.com/nejohnson2/max-fink-rag).  (Special thanks to Claude for advancing this work)
 
-Before that, I worked at USAID as a **Senior Data & Analytics Advisor**, where I focused on global food security and the Feed the Future initiative. Earlier in my career, I was at the **Fire Department in New York City (FDNY) as Director of Operations Research**.
+Before that, I worked at USAID as a **Senior Data & Analytics Advisor**, where I focused on global food security and the Feed the Future initiative. Prior to USAID, I was at the **Fire Department in New York City (FDNY) as Director of Operations Research** which overlaped with the COVID-19 pandemic giving me an incredible opportunity to quantitatively support the Deaprtment's emergency response.
 
 Find me on the internet:
 

@@ -1,10 +1,10 @@
 # Nicholas E. Johnson
 
-I've worked on all kinds of projects, but mostly consider myself a **researcher | problem solver** who uses technology and data to explore technology's impact on society and how new tools can be used to better society.
+I’ve worked on all kinds of projects, but at heart I’m a **researcher | problem solver** who uses technology and data to study how technology shapes society, and how new tools can be used to make things better.
 
-Nowadays, I focus on AI.  Specifically, I'm intersted in AI syscophancy, activation steering, and uncertainty in reasoning.
+These days, I’m focused on AI, especially AI sycophancy, activation steering, and uncertainty in reasoning.
 
-Previously I worked at USAID as a **Senior Data & Analytics Advisor** focusing on global food security and the Feed the Future initiative.  Prior to that, I was at the Fire Department in New York City (FDNY) as the **Director of Operations Research**.  
+Before that, I worked at USAID as a **Senior Data & Analytics Advisor**, where I focused on global food security and the Feed the Future initiative. Earlier in my career, I was at the **Fire Department in New York City (FDNY) as Director of Operations Research**.
 
 Find me on the internet:
 

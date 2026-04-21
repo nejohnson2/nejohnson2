@@ -16,7 +16,7 @@ Find me on the internet:
 - [Linkedin](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
 - [Stony Brook University Libraries: Advancing Trustworthy and Human-Centered AI](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
 
-## Research
+## Current Research
 
 - [From Thought to Answer](https://github.com/nejohnson2/from-thought-to-answer)
 - [Max Fink Retrieval Augmented Generation](https://github.com/nejohnson2/max-fink-rag)

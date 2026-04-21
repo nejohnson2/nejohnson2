@@ -2,7 +2,7 @@
 
 I’ve worked on all kinds of projects, but at heart I’m a **researcher | problem solver** who uses technology and data to study how technology shapes society, and how new tools can be used to make things better.
 
-These days, I’m focused on AI, especially AI sycophancy, [activation steering](https://github.com/nejohnson2/activation-steering-study), [uncertainty in reasoning](https://github.com/nejohnson2/from-thought-to-answer) and [information retrieval](https://github.com/nejohnson2/max-fink-rag).
+These days, I’m focused on AI, especially AI sycophancy, [activation steering](https://github.com/nejohnson2/activation-steering-study), [uncertainty in reasoning](https://github.com/nejohnson2/from-thought-to-answer) and [information retrieval](https://github.com/nejohnson2/max-fink-rag).  (Special thanks to Claude for advancing this work)
 
 Before that, I worked at USAID as a **Senior Data & Analytics Advisor**, where I focused on global food security and the Feed the Future initiative. Earlier in my career, I was at the **Fire Department in New York City (FDNY) as Director of Operations Research**.
 

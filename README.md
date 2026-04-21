@@ -6,6 +6,8 @@ These days, I’m focused on AI, especially AI sycophancy, [activation steering]
 
 Before that, I worked at USAID as a **Senior Data & Analytics Advisor**, where I focused on global food security and the Feed the Future initiative. Prior to USAID, I was at the **Fire Department in New York City (FDNY) as Director of Operations Research** which overlaped with the COVID-19 pandemic giving me an incredible opportunity to quantitatively support the Deaprtment's emergency response.
 
+Earned my PhD in 2018 where I focused on applying ML to understand and optimize cities, including [waste forecasting](https://www.sciencedirect.com/science/article/pii/S0956053X17300375), [real-time urban census](https://www.sciencedirect.com/science/article/pii/S0198971516300928), and [ML for low-cost air quality monitoring](https://www.sciencedirect.com/science/article/pii/S1352231018302504). 
+
 Find me on the internet:
 
 - [100-days-of-makig-AI](https://www.100-days-of-making-ai.com/)

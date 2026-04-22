@@ -15,6 +15,7 @@ Find me on the internet:
 - [Personal Website](https://www.nejohnson2.com/) (honestly, this is a bit out-of-date)
 - [Linkedin](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
 - [Stony Brook University Libraries: Advancing Trustworthy and Human-Centered AI](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
+- [USAID Work](https://github.com/nejohnson2/usaid-feed-the-future): Given that USAID was dismanteld by current Administration, much of the public facing information and work about Feed the Future is not longer available.  Little by little I'm trying to curate a repository of documents so that some of this information lives on.
 
 ## Current Research
 

@@ -22,6 +22,9 @@ Find me on the internet:
   </a>
 </p>
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
+
 - [100-days-of-makig-AI](https://www.100-days-of-making-ai.com/)
 - [Google Scholar](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
 - [Linkedin](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)

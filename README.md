@@ -13,6 +13,7 @@ Find me on the internet:
 - [100-days-of-makig-AI](https://www.100-days-of-making-ai.com/)
 - [Google Scholar](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
 - [Personal Website](https://www.nejohnson2.com/) (honestly, this is a bit out-of-date)
+- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
 - [Linkedin](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
 - [Stony Brook University Libraries: Advancing Trustworthy and Human-Centered AI](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
 - [USAID Work](https://github.com/nejohnson2/usaid-feed-the-future): Given that USAID was dismanteld by current Administration, much of the public facing information and work about Feed the Future is not longer available.  Little by little I'm trying to curate a repository of documents so that some of this information lives on.

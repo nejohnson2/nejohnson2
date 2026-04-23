@@ -1,4 +1,10 @@
 # Nicholas E. Johnson, Ph.D.
+[![100 Days of Making AI](https://img.shields.io/badge/100%20Days%20of%20Making%20AI-Visit%20Site-111111?logo=googlechrome&logoColor=white)](https://www.100-days-of-making-ai.com/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-2ea44f?logo=safari&logoColor=white)](https://www.nejohnson2.com/)  
+[![Stony Brook University Libraries](https://img.shields.io/badge/Stony%20Brook%20University%20Libraries-AI%20Initiative-6f42c1?logo=readthedocs&logoColor=white)](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
+[![USAID Work](https://img.shields.io/badge/USAID%20Work-Repository-c0392b?logo=github&logoColor=white)](https://github.com/nejohnson2/usaid-feed-the-future/)  
 
 I’ve worked on all kinds of projects, but at heart I’m a **creative researcher and problem solver** who uses technology and data to study how technology shapes society, and how new tools can be used to make things better.
 
@@ -8,29 +14,9 @@ Before that, I worked at USAID as a **Senior Data & Analytics Advisor**, where I
 
 Earned my PhD in 2018 where I focused on applying ML to understand and optimize cities, including [waste forecasting](https://www.sciencedirect.com/science/article/pii/S0956053X17300375), [real-time urban census](https://www.sciencedirect.com/science/article/pii/S0198971516300928), and [ML for low-cost air quality monitoring](https://www.sciencedirect.com/science/article/pii/S1352231018302504). 
 
-Find me on the internet:
-
 ## Find me on the internet
 
-[![100 Days of Making AI](https://img.shields.io/badge/100%20Days%20of%20Making%20AI-Visit%20Site-111111?logo=googlechrome&logoColor=white)](https://www.100-days-of-making-ai.com/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-2ea44f?logo=safari&logoColor=white)](https://www.nejohnson2.com/)  
-My personal website is a bit out of date, but it still includes useful background and project information.
 
-[![Stony Brook University Libraries](https://img.shields.io/badge/Stony%20Brook%20University%20Libraries-AI%20Initiative-6f42c1?logo=readthedocs&logoColor=white)](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
-[![USAID Work](https://img.shields.io/badge/USAID%20Work-Repository-c0392b?logo=github&logoColor=white)](https://github.com/nejohnson2/usaid-feed-the-future/)  
-Because USAID was dismantled by the current administration, much of the public-facing information about Feed the Future is no longer available. I am gradually curating a repository of documents so that some of this information can continue to remain accessible.
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
-
-- [100-days-of-makig-AI](https://www.100-days-of-making-ai.com/)
-- [Google Scholar](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
-- [Linkedin](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
-- [Personal Website](https://www.nejohnson2.com/) (honestly, this is a bit out-of-date)
-- [Stony Brook University Libraries: Advancing Trustworthy and Human-Centered AI](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
-- [USAID Work](https://github.com/nejohnson2/usaid-feed-the-future): Given that USAID was dismanteld by current Administration, much of the public facing information and work about Feed the Future is not longer available.  Little by little I'm trying to curate a repository of documents so that some of this information lives on.
 
 ## Current Research
 

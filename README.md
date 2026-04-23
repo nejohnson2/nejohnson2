@@ -9,26 +9,10 @@ Before that, I worked at USAID as a **Senior Data & Analytics Advisor**, where I
 Earned my PhD in 2018 where I focused on applying ML to understand and optimize cities, including [waste forecasting](https://www.sciencedirect.com/science/article/pii/S0956053X17300375), [real-time urban census](https://www.sciencedirect.com/science/article/pii/S0198971516300928), and [ML for low-cost air quality monitoring](https://www.sciencedirect.com/science/article/pii/S1352231018302504). 
 
 
-[![100 Days of Making AI](https://img.shields.io/badge/100%20Days%20of%20Making%20AI-Visit%20Site-111111?logo=googlechrome&logoColor=white)](https://www.100-days-of-making-ai.com/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-2ea44f?logo=safari&logoColor=white)](https://www.nejohnson2.com/)  
-[![USAID Work](https://img.shields.io/badge/USAID%20Work-Repository-c0392b?logo=github&logoColor=white)](https://github.com/nejohnson2/usaid-feed-the-future/)  
-[![Stony Brook University Libraries](https://img.shields.io/badge/Stony%20Brook%20University%20Libraries-AI%20Initiative-6f42c1?logo=readthedocs&logoColor=white)](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
-
-## Find me on the internet
-
-[![100 Days of Making AI](https://img.shields.io/badge/100%20Days%20of%20Making%20AI-Visit-1f3a5f?logo=googlechrome&logoColor=white)](https://www.100-days-of-making-ai.com/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-1f3a5f?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-1f3a5f?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-4a5568?logo=safari&logoColor=white)](https://www.nejohnson2.com/)  
-[![SBU Libraries AI](https://img.shields.io/badge/SBU%20Libraries-AI%20Initiative-6b46c1?logo=readthedocs&logoColor=white)](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
-[![USAID Work](https://img.shields.io/badge/USAID%20Work-Repository-2f855a?logo=github&logoColor=white)](https://github.com/nejohnson2/usaid-feed-the-future/)  
-
 [![100 Days of Making AI](https://img.shields.io/badge/100%20Days%20of%20Making%20AI-Visit-ff6b35?logo=googlechrome&logoColor=white)](https://www.100-days-of-making-ai.com/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-ffb703?logo=safari&logoColor=black)](https://www.nejohnson2.com/)  
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-ffb703?logo=safari&logoColor=black)](https://www.nejohnson2.com/)
 [![SBU Libraries AI](https://img.shields.io/badge/SBU%20Libraries-AI%20Initiative-8e44ad?logo=readthedocs&logoColor=white)](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
 [![USAID Work](https://img.shields.io/badge/USAID%20Work-Repository-e63946?logo=github&logoColor=white)](https://github.com/nejohnson2/usaid-feed-the-future/)  
 

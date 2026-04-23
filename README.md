@@ -9,17 +9,19 @@ Before that, I worked at USAID as a **Senior Data & Analytics Advisor**, where I
 Earned my PhD in 2018 where I focused on applying ML to understand and optimize cities, including [waste forecasting](https://www.sciencedirect.com/science/article/pii/S0956053X17300375), [real-time urban census](https://www.sciencedirect.com/science/article/pii/S0198971516300928), and [ML for low-cost air quality monitoring](https://www.sciencedirect.com/science/article/pii/S1352231018302504). 
 
 Find me on the internet:
+
 <p>
   <a href="https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg?color=4285F4" width="18" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg?color=ffffff" width="18" />
     Google Scholar
   </a>
   <br>
   <a href="https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=0A66C2" width="18" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=ffffff" width="18" />
     LinkedIn
   </a>
 </p>
+
 - [100-days-of-makig-AI](https://www.100-days-of-making-ai.com/)
 - [Google Scholar](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
 - [Linkedin](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)

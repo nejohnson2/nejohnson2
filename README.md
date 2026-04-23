@@ -10,17 +10,17 @@ Earned my PhD in 2018 where I focused on applying ML to understand and optimize 
 
 Find me on the internet:
 
-<p>
-  <a href="https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg?color=ffffff" width="18" />
-    Google Scholar
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=ffffff" width="18" />
-    LinkedIn
-  </a>
-</p>
+## Find me on the internet
+
+[![100 Days of Making AI](https://img.shields.io/badge/100%20Days%20of%20Making%20AI-Visit%20Site-111111?logo=googlechrome&logoColor=white)](https://www.100-days-of-making-ai.com/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-2ea44f?logo=safari&logoColor=white)](https://www.nejohnson2.com/)  
+My personal website is a bit out of date, but it still includes useful background and project information.
+
+[![Stony Brook University Libraries](https://img.shields.io/badge/Stony%20Brook%20University%20Libraries-AI%20Initiative-6f42c1?logo=readthedocs&logoColor=white)](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
+[![USAID Work](https://img.shields.io/badge/USAID%20Work-Repository-c0392b?logo=github&logoColor=white)](https://github.com/nejohnson2/usaid-feed-the-future/)  
+Because USAID was dismantled by the current administration, much of the public-facing information about Feed the Future is no longer available. I am gradually curating a repository of documents so that some of this information can continue to remain accessible.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)

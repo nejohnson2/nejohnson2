@@ -1,20 +1,19 @@
 # Nicholas E. Johnson, Ph.D.
 
+[![100 Days of Making AI](https://img.shields.io/badge/100%20Days%20of%20Making%20AI-Visit-ff6b35?logo=googlechrome&logoColor=white)](https://www.100-days-of-making-ai.com/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-ffb703?logo=safari&logoColor=black)](https://www.nejohnson2.com/)
+[![SBU Libraries AI](https://img.shields.io/badge/SBU%20Libraries-AI%20Initiative-8e44ad?logo=readthedocs&logoColor=white)](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
+[![USAID Work](https://img.shields.io/badge/USAID%20Work-Repository-e63946?logo=github&logoColor=white)](https://github.com/nejohnson2/usaid-feed-the-future/)
+
 I’ve worked on all kinds of projects, but at heart I’m a **creative researcher and problem solver** who uses technology and data to study how technology shapes society, and how new tools can be used to make things better.
 
 These days, I’m focused on AI, especially AI sycophancy, [activation steering](https://github.com/nejohnson2/activation-steering-study), [uncertainty in reasoning](https://github.com/nejohnson2/from-thought-to-answer) and [information retrieval](https://github.com/nejohnson2/max-fink-rag).  (Special thanks to Claude for advancing this work)
 
 Before that, I worked at USAID as a **Senior Data & Analytics Advisor**, where I focused on global food security and the Feed the Future initiative. Prior to USAID, I was at the **Fire Department in New York City (FDNY) as Director of Operations Research** which overlaped with the COVID-19 pandemic giving me an incredible opportunity to quantitatively support the Deaprtment's emergency response.
 
-Earned my PhD in 2018 where I focused on applying ML to understand and optimize cities, including [waste forecasting](https://www.sciencedirect.com/science/article/pii/S0956053X17300375), [real-time urban census](https://www.sciencedirect.com/science/article/pii/S0198971516300928), and [ML for low-cost air quality monitoring](https://www.sciencedirect.com/science/article/pii/S1352231018302504). 
-
-
-[![100 Days of Making AI](https://img.shields.io/badge/100%20Days%20of%20Making%20AI-Visit-ff6b35?logo=googlechrome&logoColor=white)](https://www.100-days-of-making-ai.com/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-ffb703?logo=safari&logoColor=black)](https://www.nejohnson2.com/)
-[![SBU Libraries AI](https://img.shields.io/badge/SBU%20Libraries-AI%20Initiative-8e44ad?logo=readthedocs&logoColor=white)](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
-[![USAID Work](https://img.shields.io/badge/USAID%20Work-Repository-e63946?logo=github&logoColor=white)](https://github.com/nejohnson2/usaid-feed-the-future/)  
+Earned my PhD in 2018 where I focused on applying ML to understand and optimize cities, including [waste forecasting](https://www.sciencedirect.com/science/article/pii/S0956053X17300375), [real-time urban census](https://www.sciencedirect.com/science/article/pii/S0198971516300928), and [ML for low-cost air quality monitoring](https://www.sciencedirect.com/science/article/pii/S1352231018302504).   
 
 ## Current Research
 

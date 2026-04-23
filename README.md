@@ -1,4 +1,4 @@
-# Nicholas E. Johnson
+# Nicholas E. Johnson, Ph.D.
 
 I’ve worked on all kinds of projects, but at heart I’m a **creative researcher and problem solver** who uses technology and data to study how technology shapes society, and how new tools can be used to make things better.
 

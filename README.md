@@ -33,7 +33,9 @@ I'm using different AI tools to learn about specific NLP and AI concepts.  One m
 - [Fundamentals of Reinforcement Learning](https://github.com/nejohnson2/rl-workshop)
 - [How LLMs Read: All About Tokens](https://github.com/nejohnson2/breaking-words)
 
+## Software Packages
 
+- [pyFIES](https://github.com/nejohnson2/pyFIES) - Python implementation of FAO's Food Insecurity Experience Scale (SDG 2.1.2)
 <!--
 **nejohnson2/nejohnson2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

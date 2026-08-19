@@ -4,7 +4,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ko3oxm8AAAAJ&hl=en&oi=ao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-e-johnson-phd-b67693a/)
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-ffb703?logo=safari&logoColor=black)](https://www.nejohnson2.com/)
-[![SBU Libraries AI](https://img.shields.io/badge/SBU%20Libraries-AI%20Initiative-8e44ad?logo=readthedocs&logoColor=white)](https://libforge.library.stonybrook.edu/advancing-trustworthy-and-human-centered-ai/)
+[![SBU Libraries AI](https://img.shields.io/badge/SBU%20Libraries-AI%20Initiative-8e44ad?logo=readthedocs&logoColor=white)](https://library.stonybrook.edu/ai-at-sbu-libraries/)
 [![USAID Work](https://img.shields.io/badge/USAID%20Work-Repository-e63946?logo=github&logoColor=white)](https://github.com/nejohnson2/usaid-feed-the-future/)
 
 I’ve worked on all kinds of projects, but at heart I’m a **creative researcher and problem solver** who uses technology and data to study how technology shapes society, and how new tools can be used to make things better.

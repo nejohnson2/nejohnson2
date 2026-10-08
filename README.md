@@ -17,6 +17,7 @@ Earned my PhD in 2018 where I focused on applying ML to understand and optimize 
 
 ## Current Research
 
+- [Relationship between Diet Affordability and Diet Quality](https://github.com/nejohnson2/CoAHD-MDD-W/)
 - [From Thought to Answer](https://github.com/nejohnson2/from-thought-to-answer)
 - [Max Fink Retrieval Augmented Generation](https://github.com/nejohnson2/max-fink-rag)
 - [The Geometry of Persona](https://github.com/nejohnson2/activation-steering-study)
